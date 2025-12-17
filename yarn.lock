@@ -1708,6 +1708,10 @@
     copy-to-clipboard "^3.3.3"
     zustand "^4.3.6"
 
+"@ctrl/tinycolor@^4.1":
+  version "4.1.1"
+  resolved "https://registry.npmjs.org/@ctrl/tinycolor/-/tinycolor-4.1.1.tgz"
+
 "@tootallnate/once@2":
   version "2.0.0"
   resolved "https://registry.npmjs.org/@tootallnate/once/-/once-2.0.0.tgz"
